@@ -1,6 +1,6 @@
 Permet d'obtenir son PID
 
-**Includes nécessaires :** 
+# Includes nécessaires 
 ```c
 #include <sys/types.h>
 #include <unistd.h>
@@ -11,11 +11,10 @@ Permet d'obtenir son PID
 pid_t getpid(void)
 ```
 
-
-**Valeurs de retour :**
+## Valeurs de retour
 - Le PID du processus courant.
 
-**Exemple d'utilisation :**
+## Exemple d'utilisation
 ```c
 pid_t monPid = getpid();
 printf("Mon PID : %d\n", monPid);
