@@ -1,4 +1,4 @@
 - [[exit]]
 - [[fork]]
 - [[getegid]]
-- 
+- get
