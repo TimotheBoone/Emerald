@@ -10,7 +10,7 @@ Termine un processus avec un status de fin.
 void exit(int __status)
 ```
 
-## Arguments 
+## Arguments
 - ```c int _status``` : Status de sortie
 
 # Exemple d'utilisation

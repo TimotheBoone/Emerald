@@ -1,7 +1,5 @@
 Permet de créer un processus fils.
 
-
-
 # Includes nécessaires
 ```c
 #include <unistd.h>
