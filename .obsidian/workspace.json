@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LA1/getgid.md",
+                "file": "LA1/Processus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LA1/getgid.md",
+                "file": "LA1/Processus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LA1/getgid.md"
+                "file": "LA1/Processus.md"
               }
             }
           }
@@ -161,8 +160,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "102e546ec591c269",
+  "active": "d184e23dfec3a426",
   "lastOpenFiles": [
+    "LA1/getgid.md",
     "LA1/Processus.md",
     "LA1/geteuid.md",
     "LA1/getegid.md",
