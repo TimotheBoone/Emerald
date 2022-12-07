@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "dbd127aa4c9327b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6977641ec3ca937a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d184e23dfec3a426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LA1/Boîtes aux lettres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39f51498f4d3aed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "14090effcc43109d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758f3011b82c8f30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "054c6abad2f87888",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d1ba65d46ec3439",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8eaed0e79c13d931",
+    "type": "split",
+    "children": [
+      {
+        "id": "376cb801aeb6ee3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ed758b6beab8d0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LA1/Boîtes aux lettres.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b86bf8324dca86db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LA1/Boîtes aux lettres.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9616be8cfa273749",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bea0c370c2e0a614",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LA1/Boîtes aux lettres.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d184e23dfec3a426",
+  "lastOpenFiles": []
+}
