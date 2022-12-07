@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LA1/Processus.md",
+                "file": "getegid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LA1/Processus.md",
+                "file": "getegid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LA1/Processus.md",
+                "file": "getegid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LA1/Processus.md"
+                "file": "getegid.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "d184e23dfec3a426",
   "lastOpenFiles": [
-    "LA1/fork.md",
     "LA1/Processus.md",
+    "LA1/fork.md",
     "LA1/exit.md",
     "LA1/Programmation systèmes.md",
     "LA1/Boîtes aux lettres.md"

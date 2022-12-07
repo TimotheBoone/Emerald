@@ -1,3 +1,4 @@
 - [[exit]]
 - [[fork]]
+- [[getegid]]
 - 
