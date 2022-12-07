@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LA1/getegid.md",
+                "file": "LA1/Mémoire partagée.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LA1/getegid.md",
+                "file": "LA1/Mémoire partagée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LA1/getegid.md",
+                "file": "LA1/Mémoire partagée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LA1/getegid.md"
+                "file": "LA1/Mémoire partagée.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "d184e23dfec3a426",
   "lastOpenFiles": [
+    "LA1/getegid.md",
     "LA1/Processus.md",
     "LA1/fork.md",
     "LA1/exit.md",
