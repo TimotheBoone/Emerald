@@ -6,4 +6,5 @@
 - [[getgid]]
 - [[getpid]]
 - [[getppid]]
+- [[getuid]]
 - 
