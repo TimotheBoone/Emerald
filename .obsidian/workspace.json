@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "102e546ec591c269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "getgid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10a96d048f9bff34",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LA1/Processus.md",
+                "file": "getgid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LA1/Processus.md",
+                "file": "getgid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LA1/Processus.md"
+                "file": "getgid.md"
               }
             }
           }
@@ -148,10 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d184e23dfec3a426",
+  "active": "102e546ec591c269",
   "lastOpenFiles": [
-    "LA1/geteuid.md",
     "LA1/Processus.md",
+    "LA1/geteuid.md",
     "LA1/getegid.md",
     "LA1/Mémoire partagée.md",
     "LA1/fork.md",

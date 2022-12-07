@@ -3,4 +3,4 @@
 - [[fork]]
 - [[getegid]]
 - [[geteuid]]
-- 
+- [[getgid]]
