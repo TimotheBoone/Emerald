@@ -1,6 +1,6 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "Emerald update: {{date}}",
+  "autoCommitMessage": "Emerald update: {{date}} by {{hostname}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0.1,
   "autoPushInterval": 0,
