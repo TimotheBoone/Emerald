@@ -5,6 +5,7 @@ Permet d'obtenir son EUID
 #include <sys/types.h>
 #include <unistd.h>
 ```
+
 # Définition de la fonction
 ```c
 uid_t geteuid(void)
